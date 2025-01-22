@@ -1,12 +1,12 @@
-MAC_ARM_URL = "https://cli.endform.dev/0.2.0/endform-aarch64-apple-darwin/endform-aarch64-apple-darwin.tar.gz"
-MAC_ARM_SHA = "c0cf75a5044936e945f70417bd02f76427af36edc4403465c2e7f7e34d72d140"
-MAC_X86_URL = "https://cli.endform.dev/0.2.0/endform-x86_64-apple-darwin/endform-x86_64-apple-darwin.tar.gz"
-MAC_X86_SHA = "236e0e092bef655d58656963df611dbcf41c0ff1e48b9e3025994b17634c0130"
+MAC_ARM_URL = "https://cli.endform.dev/0.2.1/endform-aarch64-apple-darwin/endform-aarch64-apple-darwin.tar.gz"
+MAC_ARM_SHA = "377f5c9f69f2ed8e5133197b8876046be6801e2de65ae734458b3ae0de9ae801"
+MAC_X86_URL = "https://cli.endform.dev/0.2.1/endform-x86_64-apple-darwin/endform-x86_64-apple-darwin.tar.gz"
+MAC_X86_SHA = "27160d1272163ab6206cd5e708de2dbb47618f16448e6e49b9f9c22b09bcd0ea"
 
-LINUX_ARM_URL = "https://cli.endform.dev/0.2.0/endform-aarch64-unknown-linux-gnu/endform-aarch64-unknown-linux-gnu.tar.gz"
-LINUX_ARM_SHA = "66decc1498087946932aea3fc831122edf87718ec039192c50ebeb0224e8bed1"
-LINUX_X86_URL = "https://cli.endform.dev/0.2.0/endform-x86_64-unknown-linux-gnu/endform-x86_64-unknown-linux-gnu.tar.gz"
-LINUX_X86_SHA = "25da54935f3e7fb5f69e8d77e8972c87823087e348658864365e72df8cd232b1"
+LINUX_ARM_URL = "https://cli.endform.dev/0.2.1/endform-aarch64-unknown-linux-gnu/endform-aarch64-unknown-linux-gnu.tar.gz"
+LINUX_ARM_SHA = "fdc3c356c22c43d8a09c4b1c178b0b672fee8c93ea2b5ab25d9a37f7aa523440"
+LINUX_X86_URL = "https://cli.endform.dev/0.2.1/endform-x86_64-unknown-linux-gnu/endform-x86_64-unknown-linux-gnu.tar.gz"
+LINUX_X86_SHA = "13cfdf9a879990b6509fbef34f433b5abf05d1d97bb3a432faffa738f974c07b"
 
 class Endform < Formula
   desc "Ship with confidence - run your end-to-end tests in record time"
